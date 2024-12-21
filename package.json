@@ -1,0 +1,14 @@
+{
+  "name": "lab",
+  "version": "1.0.0",
+  "description": "My Node.js project",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Build script not defined'",
+    "test": "echo 'Test script not defined'"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
